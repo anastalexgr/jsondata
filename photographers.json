@@ -2,17 +2,17 @@
     {"name": "Ansel Adams", "genre": ["Landscape"], "nationality": "American","image":"1.jpg"},
     {"name": "Henri Cartier-Bresson", "genre": ["Street", "Photojournalism"], "nationality": "French","image":"2.jpg"},
     {"name": "Dorothea Lange", "genre": ["Documentary", "Portrait"], "nationality": "American","image":"3.jpg"},
-
-
     {"name": "Steve McCurry", "genre": ["Portrait", "Travel"], "nationality": "American","image":"4.jpg"},
     {"name": "Annie Leibovitz", "genre": ["Portrait"], "nationality": "American","image":"5.jpg"},
 
 
-    
-    {"name": "Sebastião Salgado", "genre": ["Documentary", "Social Issues"], "nationality": "Brazilian"},
-    {"name": "Robert Capa", "genre": ["War", "Photojournalism"], "nationality": "Hungarian"},
-    {"name": "Vivian Maier", "genre": ["Street"], "nationality": "American"},
-    {"name": "Man Ray", "genre": ["Surrealism", "Experimental"], "nationality": "American"},
+
+    {"name": "Sebastião Salgado", "genre": ["Documentary", "Social Issues"], "nationality": "Brazilian","image":"6.jpg"},
+    {"name": "Robert Capa", "genre": ["War", "Photojournalism"], "nationality": "Hungarian","image":"7.jpg"},
+    {"name": "Vivian Maier", "genre": ["Street"], "nationality": "American","image":"8.jpg"},
+    {"name": "Man Ray", "genre": ["Surrealism", "Experimental"], "nationality": "American","image":"9.jpg"},
+
+
     {"name": "Cindy Sherman", "genre": ["Conceptual", "Self-Portrait"], "nationality": "American"},
     {"name": "Helmut Newton", "genre": ["Fashion", "Erotic"], "nationality": "German-Australian"},
     {"name": "Richard Avedon", "genre": ["Portrait", "Fashion"], "nationality": "American"},
