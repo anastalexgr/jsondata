@@ -1,5 +1,5 @@
 [
-    {"name": "Ansel Adams", "genre": ["Landscape"], "nationality": "American","image":"./images/photographers/1.jpg"},
+    {"name": "Ansel Adams", "genre": ["Landscape"], "nationality": "American","image":"1.jpg"},
     {"name": "Henri Cartier-Bresson", "genre": ["Street", "Photojournalism"], "nationality": "French"},
     {"name": "Dorothea Lange", "genre": ["Documentary", "Portrait"], "nationality": "American"},
     {"name": "Steve McCurry", "genre": ["Portrait", "Travel"], "nationality": "American"},
